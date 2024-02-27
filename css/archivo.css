@@ -1,0 +1,73 @@
+h1{font-size: 100px}
+h1 {background-color: darkturquoise}
+
+samp{color: aqua; font-size: 140px;font-style: oblique}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+li:hover {
+  background-color: #ccc;
+}
+
+li ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+
+li:hover ul {
+  display: block;
+}
+
+
+button{color: darkturquoise}
+button{background-color: blue}
+button{ padding: 30px;60px}
+button{font-size: 30px}
+
+button {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+button {margin-top: 100px}
+
+
+img{position: absolute; margin-left: 200px}
+img{width: 300px}
+
+
+p{position: absolute; margin-left:600px }
+p{font-size: 30px}
+p{font-style: italic}
+
+
+button2{position: absolute; margin-left: 800px}
+button2{font-size: 40px}
+button2{background-color: coral}
+button2 {border-color: black}
+button2{padding: 25px;50px}
+
+j{position: absolute; margin-left: 600px}
+j{font-size: 30px}
+
+button3{position: absolute;margin-left: 250px}
+button3{font-size: 20px}
+button3{background-color: coral}
+button3{border-color: black}
+button3{padding: 20px;40px}
